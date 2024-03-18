@@ -1,0 +1,28 @@
+
+.terminalTextArea {
+    -fx-text-fill: white;
+    -fx-control-inner-background: #212020;
+}
+
+.centerBox {
+    -fx-background-color: #383636;
+    -fx-control-inner-background: #212020;
+}
+
+.topBox {
+    -fx-background-color: #383636;
+}
+
+
+.bottomBox {
+    -fx-background-color: #383636;
+}
+
+.button {
+    -fx-background-color: #706e6e;
+    -fx-text-fill: white;
+}
+.button:hover {
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
